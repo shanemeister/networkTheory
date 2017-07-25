@@ -1,11 +1,9 @@
 ---
 title: "Discovering New Genes that Cause Autism using Network Theory"
-output:
-  pdf_document: default
-  html_notebook: default
+author: "Randall Shane"
+date: "7/25/2017"
+output: html_document
 ---
-
 Another Case Study from MIT's Data Science: Data to Insights and this one is applying network theory for discovering new genes that cause Autism. 
 
 Autism is a brain development disorder that caused impaired social interaction, repetitive behavior, and communication. Autism is often associated with epilepsy. Because austism if believed to be inherited, it is important to identify the genes responsible for this disorder so that a gene therapy can be developed. 
-
